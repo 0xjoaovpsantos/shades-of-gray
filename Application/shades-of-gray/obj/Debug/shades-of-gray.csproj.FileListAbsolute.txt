@@ -1,0 +1,9 @@
+C:\Users\Joao Victor\Documents\Repositorios\shades-of-gray\shades-of-gray\bin\Debug\shades-of-gray.exe.config
+C:\Users\Joao Victor\Documents\Repositorios\shades-of-gray\shades-of-gray\bin\Debug\shades-of-gray.exe
+C:\Users\Joao Victor\Documents\Repositorios\shades-of-gray\shades-of-gray\bin\Debug\shades-of-gray.pdb
+C:\Users\Joao Victor\Documents\Repositorios\shades-of-gray\shades-of-gray\obj\Debug\shades-of-gray.csprojResolveAssemblyReference.cache
+C:\Users\Joao Victor\Documents\Repositorios\shades-of-gray\shades-of-gray\obj\Debug\shades_of_gray.Form1.resources
+C:\Users\Joao Victor\Documents\Repositorios\shades-of-gray\shades-of-gray\obj\Debug\shades_of_gray.Properties.Resources.resources
+C:\Users\Joao Victor\Documents\Repositorios\shades-of-gray\shades-of-gray\obj\Debug\shades-of-gray.csproj.GenerateResource.Cache
+C:\Users\Joao Victor\Documents\Repositorios\shades-of-gray\shades-of-gray\obj\Debug\shades-of-gray.exe
+C:\Users\Joao Victor\Documents\Repositorios\shades-of-gray\shades-of-gray\obj\Debug\shades-of-gray.pdb
